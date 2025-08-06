@@ -12,7 +12,7 @@ and a Ph.D. Candidate at the
 [Technical University of Munich (TUM)](https://www.cs.cit.tum.de/en/ii/home/).
 
 My research explores AI accountability at the intersection of Information Systems, Computer Science, and Law.
-I am particularly interested in the sociotechnical means to facilitate AI accountability to prevent harm.
+I am particularly interested in the sociotechnical means to facilitate AI accountability for responsible use.
 
 Before joining KIT and TUM, I gained experience as a Research Assistant at the
 [University of Potsdam](https://www.uni-potsdam.de/de/social-media-krasnova)
