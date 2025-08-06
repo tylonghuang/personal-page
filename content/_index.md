@@ -6,23 +6,29 @@ title = "🐉 About"
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-I am Long Hoang Nguyen, a Research Associate at the
+Hi! I am Long or 龙, a Research Associate at the
 [Karlsruhe Institute of Technology (KIT)](https://cii.aifb.kit.edu/)
 and a Ph.D. Candidate at the
-[Technical University of Munich (TUM)](https://www.cs.cit.tum.de/en/ii/home/)
-in Germany.
+[Technical University of Munich (TUM)](https://www.cs.cit.tum.de/en/ii/home/).
+
+My research explores AI accountability at the intersection of Information Systems, Computer Science, and Law.
+I am particularly interested in the sociotechnical means to facilitate AI accountability to prevent harm.
+
 Before joining KIT and TUM, I gained experience as a Research Assistant at the
 [University of Potsdam](https://www.uni-potsdam.de/de/social-media-krasnova)
 and as a Software Engineer in a HPC startup.
 
-My research explores AI accountability at the intersection of Information Systems, Computer Science, and Law.
-I am particularly interested in the socio-technical means to facilitate AI accountability for harm prevention.
+Beyond doing research, I love doing sports and exploring different cultures through both food and language.
+My interest has resulted in me speaking five languages fluently (i.e., German, Vietnamese, English, French, Mandarin).
+
+If you are interested in collaborating or want to chat, please
+[contact](/contact) me.
 
 ## Publications
 
 #### Journal Articles
 
-1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., Sunyaev, A. (Forthcoming). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers.
+1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., & Sunyaev, A. (Forthcoming). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers.
 
 #### Conference & Workshop Proceedings
 
