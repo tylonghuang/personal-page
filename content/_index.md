@@ -28,12 +28,13 @@ If you are interested in collaborating or want to chat, please
 
 #### Journal Articles
 
-1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., & Sunyaev, A. (2025). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers.
+1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., & Sunyaev, A. (2025). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers, 1-22.
 [(pdf|](https://link.springer.com/content/pdf/10.1007/s10796-025-10636-9.pdf)[doi)](https://doi.org/10.1007/s10796-025-10636-9)
 
 #### Conference & Workshop Proceedings
 
-1. **Nguyen, L. H.**, Lins, S., Du, G., & Sunyaev, A. (2024). Exploring the Impact of Rewards on Developers’ Proactive AI Accountability Behavior. WITS 2024 Proceedings.
+1. **Nguyen, L. H.**, Du, G., Lins, S., & Sunyaev, A. (Forthcoming). Investigating the Impact of Rewards and Sanctions on Developers' Proactive AI Accountability Behavior. HICSS 2026 Proceedings.
+2. **Nguyen, L. H.**, Lins, S., Du, G., & Sunyaev, A. (2024). Exploring the Impact of Rewards on Developers’ Proactive AI Accountability Behavior. WITS 2024 Proceedings.
 [(pdf|](https://arxiv.org/pdf/2411.18393)[doi)](https://doi.org/10.5445/IR/1000175289)
-2. **Nguyen, L. H.**, Lins, S., Renner, M., & Sunyaev, A. (2024). Unraveling the Nuances of AI Accountability: A Synthesis of Dimensions Across Disciplines. ECIS 2024 Proceedings.
+3. **Nguyen, L. H.**, Lins, S., Renner, M., & Sunyaev, A. (2024). Unraveling the Nuances of AI Accountability: A Synthesis of Dimensions Across Disciplines. ECIS 2024 Proceedings.
 [(pdf|](https://arxiv.org/pdf/2410.04247)[doi)](https://doi.org/10.5445/IR/1000170105)

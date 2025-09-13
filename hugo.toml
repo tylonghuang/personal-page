@@ -16,7 +16,7 @@ math = false          # enable KaTeX (https://katex.org/) globally
   # favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "Find me here"
+    text = "Find me here ☝️"
     # url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
