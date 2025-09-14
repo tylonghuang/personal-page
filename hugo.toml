@@ -34,6 +34,10 @@ math = false          # enable KaTeX (https://katex.org/) globally
     title = "ResearchGate"
     url = "https://www.researchgate.net/profile/Long-Hoang-Nguyen-2"
   [[params.socialIcons]]
+    icon = "fab fa-orcid"
+    title = "ORCID"
+    url = "https://orcid.org/0009-0005-7733-8733"
+  [[params.socialIcons]]
     icon = "fab fa-linkedin"
     title = "LinkedIn"
     url = "https://linkedin.com/in/longngyn"
