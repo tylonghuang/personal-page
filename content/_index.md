@@ -34,7 +34,8 @@ If you are interested in collaborating or want to chat, please
 #### Conference & Workshop Papers
 
 1. **Nguyen, L. H.**, Du, G., Lins, S., & Sunyaev, A. (2026). Investigating the Impact of Rewards and Sanctions on Developers' Proactive AI Accountability Behavior. HICSS 2026 Proceedings. (pdf TBD)
-2. Guse, R., Danylak, P., **Nguyen, L. H.**, Thiebes, S., Lins, S., Sunyaev, A. (2025). Agents of Change: The Role of Healthcare Professionals in Digital Innovation. ICIS 2025 Proceedings. (pdf TBD)
+2. Guse, R., Danylak, P., **Nguyen, L. H.**, Thiebes, S., Lins, S., Sunyaev, A. (2025). Agents of Change: The Role of Healthcare Professionals in Digital Innovation Initiation. ICIS 2025 Proceedings.
+[(pdf|](https://www.researchgate.net/publication/398447671_Agents_of_Change_The_Role_of_Healthcare_Professionals_in_Digital_Innovation_Initiation)[doi)](https://aisel.aisnet.org/icis2025/general_topic/general_topic/11)
 3. **Nguyen, L. H.**, Lins, S., Du, G., & Sunyaev, A. (2024). Exploring the Impact of Rewards on Developers’ Proactive AI Accountability Behavior. WITS 2024 Proceedings.
 [(pdf|](https://arxiv.org/pdf/2411.18393)[doi)](https://doi.org/10.5445/IR/1000175289)
 4. **Nguyen, L. H.**, Lins, S., Renner, M., & Sunyaev, A. (2024). Unraveling the Nuances of AI Accountability: A Synthesis of Dimensions Across Disciplines. ECIS 2024 Proceedings.
