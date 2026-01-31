@@ -28,7 +28,7 @@ If you are interested in collaborating or want to chat, please
 
 #### Journal Papers
 
-1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., & Sunyaev, A. (2025). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers, 1-22.
+1. Bartsch, S. C., **Nguyen, L. H.**, Schmidt, J.-H., Du, G., Adam, M., Benlian, A., & Sunyaev, A. (2025). The Present and Future of Accountability for AI Systems: A Bibliometric Analysis. Information Systems Frontiers, 27(6), 2463-2484.
 [(pdf|](https://link.springer.com/content/pdf/10.1007/s10796-025-10636-9.pdf)[doi)](https://doi.org/10.1007/s10796-025-10636-9)
 
 #### Conference & Workshop Papers
